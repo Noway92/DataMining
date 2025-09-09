@@ -1,6 +1,7 @@
 Exercice 1 : 
 
 I constructed a pipeline for knowledge graph construction from raw text data. I performed the folowing taks : 
+
 . Text Cleaning & Preprocessing: Clean and normalize the provided text dataset.
 . Named Entity Recognition (NER): Train a CRF model to extract named entities from the cleaned
 text, compare with spaCyʼs en_ner_conll03 pre-trained NER model.
